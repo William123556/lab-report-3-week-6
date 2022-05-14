@@ -4,8 +4,7 @@ Lab Report 3
 
 **Show my .ssh/config file, and how I edited it**
 
-<img width="1374" alt="Screen Shot 2022-05-08 at 4 14 44 PM" src="https://user-images.githubusercontent.com/103155832/167319800-a87554b0-c65d-40f4-b651-df3137acb7e1.png">
-
+<img width="230" alt="Screen Shot 2022-05-13 at 5 58 20 PM" src="https://user-images.githubusercontent.com/103155832/168404845-10ecbfbe-7041-41a9-b279-4c78872beaad.png">
 
 **Show the ssh command**
 
